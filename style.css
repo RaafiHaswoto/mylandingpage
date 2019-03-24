@@ -81,7 +81,7 @@ h2{
 
 .cookie-bar-item-text{
   flex-basis: 80%;
-  -ms-flex: auto;
+  /* -ms-flex: auto; */
   width: 100%;
   padding: 1%;
   box-sizing: border-box;
@@ -90,7 +90,7 @@ h2{
 
 .cookie-bar-item-button{
   flex-basis: 20%;
-  -ms-flex: auto;
+  /* -ms-flex: auto; */
   width: 100%;
   padding: 1%;
   box-sizing: border-box;
@@ -306,7 +306,7 @@ input[type=submit]:hover {
 
 .grid-item { 
   flex-basis: 33%;
-  -ms-flex: auto;
+  /* -ms-flex: auto; */
   width: 259px;
   position: relative;
   padding: 10px;
